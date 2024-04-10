@@ -1,4 +1,4 @@
-def menu():
+def encode():
     while True:
         print('Menu')
         print('-------------')
@@ -27,4 +27,4 @@ def menu():
             break
 
 if __name__ == "__main__":
-    menu()
+    encode()
